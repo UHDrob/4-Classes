@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryArray", "BinaryArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{9EEE52F6-AF08-45E3-9938-0A4FCBC02E8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{DE9283E5-507D-4BAF-8F78-271C257F4E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9EEE52F6-AF08-45E3-9938-0A4FCBC02E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEE52F6-AF08-45E3-9938-0A4FCBC02E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEE52F6-AF08-45E3-9938-0A4FCBC02E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9283E5-507D-4BAF-8F78-271C257F4E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9283E5-507D-4BAF-8F78-271C257F4E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9283E5-507D-4BAF-8F78-271C257F4E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9283E5-507D-4BAF-8F78-271C257F4E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
