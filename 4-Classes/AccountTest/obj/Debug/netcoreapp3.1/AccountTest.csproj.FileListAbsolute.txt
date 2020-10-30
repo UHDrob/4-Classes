@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.genruntimeconfig.cache

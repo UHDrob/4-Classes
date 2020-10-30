@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\bin\Debug\netcoreapp3.1\4-Classes.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\4-Classes\obj\Debug\netcoreapp3.1\4-Classes.genruntimeconfig.cache
