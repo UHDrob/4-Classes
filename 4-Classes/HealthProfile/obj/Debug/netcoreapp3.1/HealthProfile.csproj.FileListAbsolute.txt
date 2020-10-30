@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcoreapp3.1\HealthProfile.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.genruntimeconfig.cache
