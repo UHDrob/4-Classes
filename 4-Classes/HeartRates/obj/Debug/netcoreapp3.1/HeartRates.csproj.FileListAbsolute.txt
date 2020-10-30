@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\bin\Debug\netcoreapp3.1\HeartRates.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.genruntimeconfig.cache

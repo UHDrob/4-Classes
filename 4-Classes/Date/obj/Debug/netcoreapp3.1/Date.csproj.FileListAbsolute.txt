@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Date.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache
