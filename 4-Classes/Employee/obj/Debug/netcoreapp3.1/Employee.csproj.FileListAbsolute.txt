@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache

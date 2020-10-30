@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
