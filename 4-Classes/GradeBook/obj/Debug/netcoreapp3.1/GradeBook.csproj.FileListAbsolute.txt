@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
