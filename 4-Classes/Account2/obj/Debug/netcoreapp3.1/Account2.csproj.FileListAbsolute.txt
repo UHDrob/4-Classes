@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\bin\Debug\netcoreapp3.1\Account2.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.genruntimeconfig.cache
