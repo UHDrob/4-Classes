@@ -12,7 +12,7 @@ namespace Account1
       static void Main()
       {
          // create an Account object and assign it to myAccount
-         Account myAccount = new Account();
+         var myAccount = new Account();
 
          // display myAccount's initial name (there isn't one)
          Console.WriteLine($"Initial name is: {myAccount.GetName()}");

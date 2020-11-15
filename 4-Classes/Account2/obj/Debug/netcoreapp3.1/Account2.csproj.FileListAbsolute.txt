@@ -10,3 +10,4 @@ D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.dll
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.pdb
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Account2\obj\Debug\netcoreapp3.1\Account2.csprojAssemblyReference.cache

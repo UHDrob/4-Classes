@@ -10,3 +10,4 @@ D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.dll
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.pdb
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HeartRates\obj\Debug\netcoreapp3.1\HeartRates.csprojAssemblyReference.cache

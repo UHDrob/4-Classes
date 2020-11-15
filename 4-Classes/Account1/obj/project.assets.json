@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\4-Classes\\4-Classes\\Account1\\Account1.csproj",
-      "projectName": "Account1",
-      "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\4-Classes\\4-Classes\\Account1\\Account1.csproj",
+      "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\4-Classes\\4-Classes\\Account1\\Account1_4-1_4-2.csproj",
+      "projectName": "Account1_4-1_4-2",
+      "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\4-Classes\\4-Classes\\Account1\\Account1_4-1_4-2.csproj",
       "packagesPath": "C:\\Users\\Rob77\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\Rob77\\Source\\Repos\\4-Classes\\4-Classes\\Account1\\obj\\",
       "projectStyle": "PackageReference",

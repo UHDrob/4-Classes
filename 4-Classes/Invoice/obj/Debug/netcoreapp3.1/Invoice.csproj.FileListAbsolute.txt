@@ -10,3 +10,4 @@ D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Invoice\obj\Debug\netcoreapp3.1\Invoice.csprojAssemblyReference.cache

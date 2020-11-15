@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\bin\Debug\netcoreapp3.1\BinaryArray.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\BinaryArray\obj\Debug\netcoreapp3.1\BinaryArray.genruntimeconfig.cache

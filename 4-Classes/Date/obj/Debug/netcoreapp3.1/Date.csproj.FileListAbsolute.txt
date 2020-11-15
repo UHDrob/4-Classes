@@ -10,3 +10,4 @@ D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\bin\Debug\netcoreapp3.1\Dat
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.dll
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.pdb
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache

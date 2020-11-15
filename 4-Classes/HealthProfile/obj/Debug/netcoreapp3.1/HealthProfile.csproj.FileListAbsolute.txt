@@ -10,3 +10,4 @@ D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\bin\Debug\netcorea
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.dll
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.pdb
 D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\HealthProfile\obj\Debug\netcoreapp3.1\HealthProfile.csprojAssemblyReference.cache

@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryArray", "BinaryArray\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeBook", "GradeBook\GradeBook.csproj", "{9EEE52F6-AF08-45E3-9938-0A4FCBC02E8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account", "Account\Account.csproj", "{DE9283E5-507D-4BAF-8F78-271C257F4E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountE4-11", "Account\AccountE4-11.csproj", "{DE9283E5-507D-4BAF-8F78-271C257F4E8C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invoice", "Invoice\Invoice.csproj", "{B016EDDC-1D16-4AFC-9140-2000F8F8DF3E}"
 EndProject
@@ -23,13 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeartRates", "HeartRates\He
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthProfile", "HealthProfile\HealthProfile.csproj", "{A7983ED4-A537-4DE9-94A9-F99704335577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account1", "Account1\Account1.csproj", "{17FE8DE2-88EF-4B5B-84D3-C65F47CE878D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account1_4-1_4-2", "Account1\Account1_4-1_4-2.csproj", "{17FE8DE2-88EF-4B5B-84D3-C65F47CE878D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account2", "Account2\Account2.csproj", "{E81134FF-3BAE-41F6-B77C-5DD5B79353F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account2", "Account2\Account2.csproj", "{E81134FF-3BAE-41F6-B77C-5DD5B79353F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account3", "Account3\Account3.csproj", "{DE2C586B-14F4-46EE-A933-19CAED9DEFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account3", "Account3\Account3.csproj", "{DE2C586B-14F4-46EE-A933-19CAED9DEFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account4", "Account4\Account4.csproj", "{C0A6C327-63F0-408E-833B-012B06D0EA27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account4", "Account4\Account4.csproj", "{C0A6C327-63F0-408E-833B-012B06D0EA27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
