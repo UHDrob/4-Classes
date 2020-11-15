@@ -1,0 +1,12 @@
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.exe
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.deps.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\bin\Debug\netcoreapp3.1\Fig49.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.dll
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.pdb
+D:\Users\Rob77\Source\Repos\4-Classes\4-Classes\Fig49\obj\Debug\netcoreapp3.1\Fig49.genruntimeconfig.cache
